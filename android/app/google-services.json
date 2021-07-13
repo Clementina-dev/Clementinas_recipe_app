@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602961884043",
+    "project_id": "clementinas-recipe-app-4d507",
+    "storage_bucket": "clementinas-recipe-app-4d507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602961884043:android:f252f2f6e108943818758e",
+        "android_client_info": {
+          "package_name": "com.example.clementinas_recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602961884043-1not7krrlfrv6l93pt7nkvl3rv1vkqk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH_GYuYf5TPYsRDgmbrb4DId8u6zRI2oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602961884043-1not7krrlfrv6l93pt7nkvl3rv1vkqk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
